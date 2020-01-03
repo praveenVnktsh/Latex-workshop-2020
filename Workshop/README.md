@@ -12,3 +12,5 @@
 Link to the live document: <a href ="https://www.overleaf.com/read/rrbvxbjyzrkp"> Link </a>
 
 LaTeX Documentation : <a href = "https://www.overleaf.com/learn"> Link </a> 
+
+Link to Game : <a href = "/TeXnique/public/index.html"> Try out this LaTex Based game </a>
