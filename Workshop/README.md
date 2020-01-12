@@ -13,6 +13,6 @@ Link to the live document: <a href ="https://www.overleaf.com/read/rrbvxbjyzrkp"
 
 LaTeX Documentation : <a href = "https://www.overleaf.com/learn"> Link </a> 
 
-Link to Game : <a href = "/Workshop/TeXnique/public/index.html"> Try out this LaTex Based game </a>
+Link to Game : <a href = "https://abhigyanmartin.github.io/Workshop/TeXnique/public/index.html"> Try out this LaTex Based game </a>
 
 
